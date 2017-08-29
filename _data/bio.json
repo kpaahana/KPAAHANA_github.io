@@ -1,58 +1,54 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kailey Pa'ahana",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://avatars1.githubusercontent.com/u/31325477?v=4&u=f18dbf8e20243d5e09ea3880beb48ea4b16645f2&s=400",
+    "email": "kpaahana@hawaii.edu",
+    "phone": "808-371-5065",
+    "website": "https://kpaahana.github.io",
+    "summary": "I am doing the double major for a B.A. in Information Computer Science and Art Studio. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "98-619 Kilinoe St. Apt 5F1",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kpaahana",
+        "url": "http://github.com/kpaahana"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "kaileypaahana",
+        "url": "https://www.linkedin.com/in/kailey-pa-ahana-b05744146/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kailey_paahana",
+        "url": "http://instagram.com/kailey_paahana"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Arts",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Design",
+        "Layout",
+        "Color",
+        "Graphics",
+        "Drawing"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Animation",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Graphics",
+        "Design",
+        "Movie"
       ]
     }
   ],
@@ -84,67 +80,45 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science & Art Studio (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2015-08-22",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.55",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Office of the Vice Chancellor for Research",
+      "position": "Fiscal Student Assistant",
+      "website": "https://manoa.hawaii.edu/ovcr/",
+      "startDate": "2016-03-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Fiscal Student Assistant for the Office of the Vice Chancellor for Research",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Develop, organize, and maintain fiscal documents",
+        "Problem-solve and troubleshoot discrepancies that arise",
+        "Office tasks, such as mailing, making copies, scanning, filing, distribution of documents and daily campus errands",
+        "Routine data entry using UH online and internal systems and upkeep of various fiscal logs"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaiian Humane Society",
+      "website": "https://www.hawaiianhumane.org",
+      "position": "Dog & Cat House Volunteer",
+      "startDate": "2017-07-21",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Animal Care",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Dog Walking",
+        "Cat Socializing"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+
   ],
   "awards": [
     {
