@@ -50,6 +50,14 @@
         "Design",
         "Movie"
       ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Video Game",
+        "Website",
+        "Flyer"
+      ]
     }
   ],
   "skills": [
@@ -60,9 +68,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -70,16 +76,29 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
+    },
+    {
+    "name": "Able to work in a team environment",
+    },
+     {
+    "name": "Reliable & Trustworthy",
     }
   ],
   "education": [
+     {
+      "institution": "Hawai'i Baptist Academy",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009-08-03",
+      "endDate": "2015-05-20",
+      "gpa": "3.82",
+      "courses": [
+      ]
+    },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Computer Science & Art Studio (expected Spring, 2019)",
       "studyType": "B.A.",
       "startDate": "2015-08-22",
@@ -106,16 +125,18 @@
     },
   ],
   "volunteer": [
-    {
-      "organization": "Hawaiian Humane Society",
-      "website": "https://www.hawaiianhumane.org",
-      "position": "Dog & Cat House Volunteer",
-      "startDate": "2017-07-21",
-      "endDate": "Present",
-      "summary": "Animal Care",
+   {
+      "organization": "Interact Club",
+      "website": "",
+      "position": "",
+      "startDate": "2011",
+      "endDate": "2015",
+      "summary": "",
       "highlights": [
-        "Dog Walking",
-        "Cat Socializing"
+        "Sponsored a local Hawai’i vegetable farm at Splendor of China",
+        "Fundraised for high school at HBA Fun Fair",
+        "Prepared display for Crab Fest at KCC",
+        "Assisted local patrons at the Honolulu Zoo"
       ]
     },
     {
@@ -129,9 +150,40 @@
         "Make Fun Factory",
         "VBS"
       ]
+    },
+    {
+      "organization": "Hawaiian Humane Society",
+      "website": "https://www.hawaiianhumane.org",
+      "position": "Dog & Cat House Volunteer",
+      "startDate": "2017-07-21",
+      "endDate": "Present",
+      "summary": "Animal Care",
+      "highlights": [
+        "Dog Walking",
+        "Cat Socializing"
+      ]
     }
+    
   ],
   "awards": [
+    {
+      "title": "Principle's Honor Roll",
+      "date": "2009 - 2013",
+      "awarder": "Hawai'i Baptist Academy",
+      "summary": ""
+    },
+    {
+      "title": "President's Honor Roll",
+      "date": "2014 - 2015",
+      "awarder": "Hawai'i Baptist Academy",
+      "summary": ""
+    },
+     {
+      "title": "Graduated with Honor's Diploma",
+      "date": "2015",
+      "awarder": "Hawai'i Baptist Academy",
+      "summary": "Student must have a cumulative GPA of 3.7 or higher and have successfully completed one AP course."
+    },
     {
       "title": "Manoa Arts & Humanitites Achievement Scholarship",
       "date": "Spring & Fall 2017",
