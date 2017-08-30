@@ -90,8 +90,8 @@
   "education": [
      {
       "institution": "Hawai'i Baptist Academy",
-      "area": "",
-      "studyType": "",
+      "area": "Graduated with Honor's Diploma",
+      "studyType": "Student must have a cumulative GPA of 3.7 or higher and have successfully completed one AP course",
       "startDate": "2009-08-03",
       "endDate": "2015-05-20",
       "gpa": "3.82",
@@ -178,12 +178,6 @@
       "date": "2014 - 2015",
       "awarder": "Hawai'i Baptist Academy",
       "summary": ""
-    },
-     {
-      "title": "Graduated with Honor's Diploma",
-      "date": "2015",
-      "awarder": "Hawai'i Baptist Academy",
-      "summary": "Student must have a cumulative GPA of 3.7 or higher and have successfully completed one AP course."
     },
     {
       "title": "Manoa Arts & Humanitites Achievement Scholarship",
