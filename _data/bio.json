@@ -33,16 +33,7 @@
     ]
   },
   "interests": [
-    {
-      "name": "Arts",
-      "keywords": [
-        "Design",
-        "Layout",
-        "Color",
-        "Graphics",
-        "Drawing"
-      ]
-    },
+    
     {
       "name": "Animation",
       "keywords": [
@@ -57,6 +48,16 @@
         "Video Game",
         "Website",
         "Flyer"
+      ]
+    },
+    {
+      "name": "Arts",
+      "keywords": [
+        "Design",
+        "Layout",
+        "Color",
+        "Graphics",
+        "Drawing"
       ]
     }
   ],
