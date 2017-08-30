@@ -118,21 +118,26 @@
         "Cat Socializing"
       ]
     },
-
+    {
+    "organization": "New Hope Sand Island",
+      "website": "https://www2.enewhope.org/service-times-and-locations/",
+      "position": "",
+      "startDate": "2017-06-12",
+      "endDate": "2017-6-16",
+      "summary": "Care for children during the Vocation Bible School week ",
+      "highlights": [
+        "Make Fun Factory",
+        "VBS"
+      ]
+    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Arts & Humanitites Achievement Scholarship",
+      "date": "Spring & Fall 2017",
+      "awarder": "Univerisity of Hawai'i at Manoa",
+      "summary": "Scholarships awarded to full-time majors in studio art of art history with a minimum of 24 credits and have maintained a GPA of 3.5 of higher."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
