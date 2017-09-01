@@ -21,7 +21,7 @@ The sound track was created through the website, [AudioTool](http://audiotool.co
 Overall, I was pretty satisfied with the outcome of my video. I don’t really know if I’m going to want to do another stop motion video with my dog ever again, but the whole process was a really fun experience. It definitely gave me a higher appreciation for the time and work it takes to making these kinds of videos.
 
 
-You can watch the video here! ---> https://youtu.be/oDQvUxvmtZo 
+You can watch the video [here!](https://youtu.be/oDQvUxvmtZo) 
 
 
 
