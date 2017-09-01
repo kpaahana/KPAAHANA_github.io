@@ -3,7 +3,7 @@ layout: project
 type: project
 image: kpaahana.github.io/Stop Motion-Brody.jpg
 title: A Day in the Life of Brody
-permalink:
+permalink:projects/project-1.md
 date: Spring 2017
 labels:
   - Stop Motion Video
