@@ -20,7 +20,7 @@ If you havent looked at my project 1, then you wouldn't know, but all of the sou
 
 If I were to do this project again I would definitely try to get the images to be a little more crisp and try to experiment more with the shapes and colors. I’d also like to try out different types of objects to see what other images I can create. Overall, I was pretty satisfied with the way the colors and sound turned out.
 
-You can watch the video here! ---> https://www.youtube.com/watch?v=ajrg7huqmF0&t=1s
+You can watch the video [here!] (https://www.youtube.com/watch?v=ajrg7huqmF0&t=1s)
 
 
 
