@@ -91,7 +91,7 @@
      {
       "institution": "Hawai'i Baptist Academy",
       "area": "Graduated with Honor's Diploma -- GPA 3.82",
-      "studyType": "",
+      //"studyType": "",
       "startDate": "2009-08-03",
       "endDate": "2015-05-20",
       "gpa": "3.82",
@@ -128,11 +128,11 @@
   "volunteer": [
    {
       "organization": "Interact Club",
-      "website": "",
-      "position": "",
+      //"website": "",
+      //"position": "",
       "startDate": "2011",
       "endDate": "2015",
-      "summary": "",
+      //"summary": "",
       "highlights": [
         "Sponsored a local Hawai’i vegetable farm at Splendor of China",
         "Fundraised for high school at HBA Fun Fair",
@@ -143,7 +143,7 @@
     {
     "organization": "New Hope Sand Island",
       "website": "https://www2.enewhope.org/service-times-and-locations/",
-      "position": "",
+      //"position": "",
       "startDate": "2017-06-12",
       "endDate": "2017-6-16",
       "summary": "Care for children during the Vocation Bible School week ",
