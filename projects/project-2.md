@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: kpaahana.github.io/Stop Motion-Brody.jpg
-title: A Day in the Life of Brody
+image: kpaahana.github.io/Rainbow- Abstract.png
+title: Technicolor
 permalink: projects/p2
 date: Spring 2017
 labels:
