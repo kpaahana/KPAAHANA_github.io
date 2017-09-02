@@ -4,22 +4,22 @@ type: project
 image: kpaahana.github.io/images/A1.png
 title: Dungeon Crawl
 permalink: projects/Dungeon
-date: Spring 2017
+date: Spring 2016
 labels:
   - Java
   - RPG
-summary: Experimentation with light and color
+  - Butterfly Effect
+summary: A game of choices.A game my friend and I developed for ICS 211.
 ---
 
-For this project I chose to experiement with light and color. I wanted to make people feel relaxed and just like a “feel good” type of expression. I was able to the images by going into a pitch black space and shining light on an object.The cool thing was, I only needed a CD to create the images. 
+For this project my friend and I created a game in which a player is sent on a journey to find the gold. The whole point of the game is to basically make it to the end without dying. Each choice a player makes will then carry on in the next scene, creating a sort of butterfly effect. 
 
-For the audio, I really wanted to contrast it to the more fast-paced soundtrack in my abstract video. I was playing around with the different possible beats to make, and I got this really nice and steady heart beat sound that I ended up using as the basis of my entire sound. For the rest of it all I got samples from audio tool and mashed it all together. 
+We also made short, mini games to play during the journey for the player to enjoy. The games mainly consisted of mazes and "collect the object" type of activities. 
 
-If you havent looked at my project 1, then you wouldn't know, but all of the sound was created through the website, [AudioTool](http://audiotool.com). The website contains a countless array of musical tools to create the perfect sound or music for an individual to use for his/her videos.
+Sadly (for the player), we made the game unbeatable. So, for example, even if the player made all the correct choices through out the entire game, the last scene will always end in death. (Basically, the whole thing is a big troll to frustrate the player.) 
 
-If I were to do this project again I would definitely try to get the images to be a little more crisp and try to experiment more with the shapes and colors. I’d also like to try out different types of objects to see what other images I can create. Overall, I was pretty satisfied with the way the colors and sound turned out.
 
-You can watch the video [here!](https://www.youtube.com/watch?v=ajrg7huqmF0&t=1s)
+You can watch a live play of the game [here!](https://www.youtube.com/watch?v=4afGYOyj8yo)
 
 
 
