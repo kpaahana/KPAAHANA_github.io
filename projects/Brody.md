@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kpaahana.github.io/Stop Motion-Brody.jpg
+image: kpaahana.github.io/images/bro.jpg
 title: A Day in the Life of Brody
 permalink: projects/p1
 date: Spring 2017
@@ -12,7 +12,7 @@ labels:
 summary: "I created a stop motion video which encapsulates the three main aspects of my dog, Brody's, life: eating, sleeping, and playing." 
 ---
 
-<img class="ui image" src="/images/bro.jpg"> 
+<img class="ui image" src="/Stop Motion-Brody.jpg"> 
 
 For this project I created a short, forty-four second, stop motion video which encapsulates the three main aspects of my dog, Brody's, life: eating, sleeping, and playing. 
 
