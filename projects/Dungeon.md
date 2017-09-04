@@ -12,7 +12,7 @@ labels:
 summary: A game of choices.A game my friend and I developed for ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="kpaahana.github.io/images/characterFront.png"> 
+<img class="ui image" src="kpaahana.github.io/images/characterFront.png"> 
 
 For this project my friend and I created a game in which a player is sent on a journey to find the gold. The whole point of the game is to basically make it to the end without dying. Each choice a player makes will then carry on in the next scene, creating a sort of butterfly effect. 
 
