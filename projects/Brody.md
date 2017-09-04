@@ -12,7 +12,7 @@ labels:
 summary: "I created a stop motion video which encapsulates the three main aspects of my dog, Brody's, life: eating, sleeping, and playing." 
 ---
 
-<img class="ui image" src="/images/Screen Shot 2017-09-03 at 9.05.22 PM.png"> 
+<img class="ui image" src="/images/bro.jpg"> 
 
 For this project I created a short, forty-four second, stop motion video which encapsulates the three main aspects of my dog, Brody's, life: eating, sleeping, and playing. 
 
