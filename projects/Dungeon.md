@@ -22,6 +22,7 @@ We also made short, mini games to play during the journey for the player to enjo
 
 Sadly (for the player), we made the game unbeatable. So, for example, even if the player made all the correct choices through out the entire game, the last scene will always end in death. (Basically, the whole thing is a big troll to frustrate the player.) 
 
+<img class="ui image" src="/images/Screen Shot 2017-09-03 at 8.42.19 PM.png"> 
 
 You can watch a live play of the game [here!](https://www.youtube.com/watch?v=4afGYOyj8yo)
 
