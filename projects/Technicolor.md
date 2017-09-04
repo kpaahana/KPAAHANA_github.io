@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kpaahana.github.io/Rainbow- Abstract.png
+image: kpaahana.github.io/images/Screen Shot 2017-05-02 at 3.59.13 AM.png
 title: Technicolor
 permalink: projects/Technicolor
 date: Spring 2017
