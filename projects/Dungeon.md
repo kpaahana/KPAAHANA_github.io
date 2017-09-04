@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kpaahana.github.io/images/A1.png
+image: kpaahana.github.io/images/A1.jpeg
 title: Dungeon Crawl
 permalink: projects/Dungeon
 date: Spring 2016
