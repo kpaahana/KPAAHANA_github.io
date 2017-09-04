@@ -18,6 +18,8 @@ For this project my friend and I created a game in which a player is sent on a j
 
 We also made short, mini games to play during the journey for the player to enjoy. The games mainly consisted of mazes and "collect the object" type of activities. 
 
+<img class="ui image" src="/images/Screen Shot 2017-09-03 at 8.41.01 PM.png"> 
+
 Sadly (for the player), we made the game unbeatable. So, for example, even if the player made all the correct choices through out the entire game, the last scene will always end in death. (Basically, the whole thing is a big troll to frustrate the player.) 
 
 
