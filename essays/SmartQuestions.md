@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Put in the Effort
+title: A Little Effort Goes A Long Way
 date: 2017-09-07
 labels:
   - Smart Questions
