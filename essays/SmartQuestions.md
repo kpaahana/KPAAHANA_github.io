@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Put in the Effort
-date: 2017-08-31
+date: 2017-09-07
 labels:
   - Smart Questions
 ---
