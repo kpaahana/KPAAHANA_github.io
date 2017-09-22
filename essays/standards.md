@@ -12,7 +12,7 @@ Have you ever known a person who loves to work in a cluddered environment, claim
 
 I have. And it's simple -- I don't get it.
 
-It's understandable if someone has a few things scattered around his/her area, but once it reaches the point where mountains of questionable artifacts start to form is when my anxiety starts to kick in. I morph into a spring cleaning monster that won't stop until everything is perfectly put in its place. (I wouldn't particularly catergorize myself as OCD or a perfectionist, but to be honest, if I had a labelmaker I think I'd be the person to label my wall "WALL".) It just gives me a great feeling when an environment is neat and organized, making it so much easier to find things.  
+It's understandable if someone has a few things scattered around his/her area, but once it reaches the point where mountains of questionable artifacts start to form is when my anxiety starts to kick in. I morph into a spring cleaning monster that won't stop until everything is perfectly put in its place. (I wouldn't particularly catergorize myself as OCD or a perfectionist, but to be honest, if I had a labelmaker I think I'd be the person to label my wall "WALL".) It just gives me so much satisfaction when an environment is neat and organized, making it so much easier to find things.  
 
 I think that's why I find "coding standards" amazing. Sure, it can be quite trivial when you have to make sure that everything is consistent throughout your code. However, when you think about how much time you're saving by doing so, it's completely worth it. 
 
