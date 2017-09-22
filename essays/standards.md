@@ -16,7 +16,7 @@ It's understandable if someone has a few things scattered around his/her area, b
 
 I think that's why I find "coding standards" amazing. Sure, it can be quite trivial when you have to make sure that everything is consistent throughout your code. However, when you think about how much time you're saving by doing so, it's completely worth it. 
 
-I can't express how much I hate it when I'd look at my past codes and everything was all bundled up together: no idents, no comments, no spaces -- no organization! It makes it so difficult to read and understand the code; I feel bad for the TA or professor who had to evaluate it. And to think that all this trouble could have been avoided if I only realized the magic of a well-organized piece of code. 
+I can't express how much I hate it when I'd look at my past codes and everything was all bundled up together: no idents, no comments, no spaces -- no organization! It takes so much time to read and understand the code; I feel bad for the TA or professor who had to evaluate it. And to think that all this trouble could have been avoided if I only realized the magic of a well-organized piece of code. 
 
 Finding order in chaos? I don't think so. 
 
