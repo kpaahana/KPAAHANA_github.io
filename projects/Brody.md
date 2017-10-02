@@ -9,7 +9,7 @@ labels:
   - Stop Motion Video
   - Sound
   - Electronic Arts
-summary: "I created a stop motion video which encapsulates the three main aspects of my dog, Brody's, life: eating, sleeping, and playing." 
+summary: "I created a stop motion video which encapsulates the three main aspects of my dog, Brody's life: eating, sleeping, and playing." 
 ---
 
 <img class="ui medium left floated image" src="/Stop Motion-Brody.jpg"> 
