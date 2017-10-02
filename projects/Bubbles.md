@@ -3,7 +3,7 @@ layout: project
 type: project
 image: kpaahana.github.io/images/Screen Shot 2017-10-02 at 12.55.40 PM.png
 title: Organized Chaos 
-permalink: projects/Technicolor
+permalink: projects/Bubbles
 date: Fall 2017
 labels:
   - Abstract Video
