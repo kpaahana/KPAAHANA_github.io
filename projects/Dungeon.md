@@ -9,7 +9,7 @@ labels:
   - Java
   - RPG
   - Butterfly Effect
-summary: A game of choices.A game my friend and I developed for ICS 211.
+summary: A game of choices. A game my friend and I developed for ICS 211.
 ---
 
 <img class="ui image" src="/images/characterFront.png"> 
