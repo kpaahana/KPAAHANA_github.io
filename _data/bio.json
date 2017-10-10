@@ -69,7 +69,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript", 
+        "HTML"
       ]
     },
     {
@@ -84,6 +85,9 @@
     "name": "Able to work in a team environment",
     },
      {
+    "name": "Organized, responsible, & independent",
+    },
+     {
     "name": "Reliable & Trustworthy",
     }
   ],
@@ -91,7 +95,7 @@
      {
       "institution": "Hawai'i Baptist Academy",
       "area": "Graduated with Honor's Diploma",
-      "studyType": "GPA 3.82",
+      "studyType": "Graduated with cumulative GPA 3.82",
       "startDate": "2009-08-03",
       "endDate": "2015-05-20",
       "gpa": "3.82",
