@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-<img class="ui image" src="kpaahana.github.io/digits.png"> 
+<img class="ui image" src="/digits.png"> 
 
 
 Now, describe two problems you’ve encountered while developing the digits application. Ideally, you will discuss one problem you had and how you solved it, and one problem you are currently having that you haven’t solved yet.
