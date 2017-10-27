@@ -6,6 +6,7 @@ date: 2017-09-01
 labels:
   - Javascript 1
 ---
+<img class="ui image" src="/images/Unknown.jpg"> 
 
 This is my first time using Javascript, but overall it seems to be qute similar to Java. I'm very glad that declaring variables are a little easier since I don;t really have to worry about making something an integer, double, string, and so on. It really takes the stress off of having to remember all that.  
 
