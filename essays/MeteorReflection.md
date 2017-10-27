@@ -6,7 +6,7 @@ date: 2017-10-26
 labels:
   - Software Engineering
   - Meteor
-  -Reflection
+  - Reflection
 ---
 
 Ever get that feeling of uneasiness when something is going so smoothly that it just seems too good to be true? Well, that's me with Meteor. I don't know if it's just my computer that working it's magic or if there's something that I'm not doing "correclty", but throughout these past few weeks that we've been working with Meteor, I haven't really had any huge problems-- at all. 
