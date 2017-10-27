@@ -13,7 +13,7 @@ Ever get that feeling of uneasiness when something is going so smoothly that it 
 
 As ridiculous as it sounds, I was at a point where I wanted to get errors just so that I could assure myself that there was nothing I was doing wrong, that I was "normal".
 
-<img class="ui image" src="/images/computer-recovery.jpg"> 
+<img class="ui image" src="/images/computer_frustration_T.png"> 
 
 Every single day someone would either express a problem he/she is having for Meteor, or I would hear about it on Slack. And, we even wrote about our sorrows in the "Meteor Gotchas" WOD. The only real problem (in general) that came to mind was my computer overheating when indexing (in IntelliJ to create a new project). And when the computer got hot the fan would become so obnoxiously loud that my "solution" was to pause the indexing and close my laptop until the sound settled down. 
 
