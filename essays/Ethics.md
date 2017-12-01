@@ -12,7 +12,7 @@ labels:
 
 There is so much talk about ethics in the workplace (or really just life in general), but what exactly is "ethics"? According to the dictionary, ethics is "the moral principles that govern a person's behavior or the conducting of an activity." I like to think of it as "the little guy on your shoulder" (or the subconscious) telling you that what you're doing is right or wrong. Or if you already did something deemed as "wrong" then it the strong sense of guilt you feel afterwards. 
 
-<img class="ui right circular floated image" src="/images/ethicscode.gif" width= "150" height="150" > 
+<img class="ui right floated image" src="/images/ethicscode.gif" width= "150" height="150" > 
 
 In the case of software engineering, you can read all about the principles of ethics in the [Software Engineering Code of Ethics](https://www.computer.org/web/education/code-of-ethics). The code basically states that  one must remain ethically sane towards the public, one's profession, and, ultimately, one's self. If you get the slightest inclination that what your being asked to do is wrong, as an ethical software engineer, it is your duty to bring up the problem with your client and employer to fix the situation.
 
