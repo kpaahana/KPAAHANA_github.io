@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Newbie's Thoughts on Javascript
+title: Are You Ethically Sane?
 date: 2017-11-30
 labels:
   - Ethics in Software Engineering
