@@ -8,7 +8,7 @@ labels:
   - The Code I'm Still Ashamed of
 ---
 
-<img class="ui image" src="/images/ethics guy.jpg" width= "800" height="200" > 
+<img class="ui image" src="/images/ethics guy.jpg" width= "900" height="200" > 
 
 There is so much talk about ethics in the workplace (or really just life in general), but what exactly is "ethics"? According to the dictionary, ethics is "the moral principles that govern a person's behavior or the conducting of an activity." I like to think of it as "the little guy on your shoulder" (or the subconscious) telling you that what you're doing is right or wrong. Or if you already did something deemed as "wrong" then it the strong sense of guilt you feel afterwards. 
 
