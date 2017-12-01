@@ -22,5 +22,5 @@ The fact is that he had made the choice to do something that did not sit right w
 
 He mentioned in the article that, "if you write code for a living, there’s a chance that at some point in your career, someone will ask you to code something a little deceitful – if not outright unethical." I hope that if I'm ever put in such a situation in the future that I choose to be ethically sane. 
 
-<img class="ui centered image" src="/images/ethics.png" width="500" height ="300" > 
+<img class="ui floating image" src="/images/ethics.png" width="500" height ="300" > 
 
