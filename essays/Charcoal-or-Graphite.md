@@ -14,7 +14,7 @@ I love drawing. Always have.
 
 The biggest problem is figuring out what I love drawing with the most. It’s like letting a children loose in a candy store; there are so many options to choose from that they can’t simply pick a favorite. Ever since I was a kid, using graphite pencil had always been my go-to medium. It wasn’t until my freshman year in high school that I discovered another love -- charcoal. From then on, finding new things to draw with and figuring out how to use them became an addiction. I tried everything from colored pencils to pastels. And at one point, I also experimented in painting with acrylic and watercolor. However, the connection I felt while using graphite pencil and charcoal was undeniable. I really love the challenge of instilling life into an art piece by only using one color—black (or technically gray). Although graphite and charcoal are in the same drawing media, these two rivals tend to differ in convenience, sensitivity, and value. 
 
-<img class="ui image" src="/images/charvgraph.jpg"  width= "700" height="400"> 
+<img class="ui image" src="/images/charvgraph.jpg"  width= "700" height="300"> 
 
 Since I’ve used it for the majority of my life (whether it be for writing or drawing), I immediately turn to graphite pencil for its familiarity and convenience. The pencil feels so comfortable in the hand that it makes drawing all the more enjoyable. I can’t seem to get the same feel with vine or compressed charcoal due to the vine’s blocky shape and thick volume and the compressed charcoal’s awkward size. Charcoal also smudges very easily, which can be both a weakness and a strength. 
 
