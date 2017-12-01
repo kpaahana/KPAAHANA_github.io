@@ -8,7 +8,7 @@ labels:
   - The Code I'm Still Ashamed of
 ---
 
-<img class="ui image" src="/images/ethics guy.jpg" width= "900" height="200" > 
+<img class="ui rounded image" src="/images/ethics guy.jpg" width= "900" height="200" > 
 
 There is so much talk about ethics in the workplace (or really just life in general), but what exactly is "ethics"? According to the dictionary, ethics is "the moral principles that govern a person's behavior or the conducting of an activity." I like to think of it as "the little guy on your shoulder" (or the subconscious) telling you that what you're doing is right or wrong. Or if you already did something deemed as "wrong" then it the strong sense of guilt you feel afterwards. 
 
@@ -24,5 +24,5 @@ The fact is that he had made the choice to do something that did not sit right w
 
 He mentioned in the article that, "if you write code for a living, there’s a chance that at some point in your career, someone will ask you to code something a little deceitful – if not outright unethical." I hope that if I'm ever put in such a situation in the future that I choose to be ethically sane. 
 
-<img class="ui image" src="/images/ethics.png" width="800" height ="300" > 
+<img class="ui rounded image" src="/images/ethics.png" width="800" height ="300" > 
 
