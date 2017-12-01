@@ -8,10 +8,15 @@ labels:
   - The Code I'm Still Ashamed of
 ---
 
-In the [Software Engineering Code of Ethics](https://www.computer.org/web/education/code-of-ethics), 
+According to the [Software Engineering Code of Ethics](https://www.computer.org/web/education/code-of-ethics), on the eight main principles of ethics is a follows, "Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession." But what exactly is "ethics"?
 
-Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession
+In the dictionary it states that ethics is "the moral principles that govern a person's behavior or the conducting of an activity." 
+
+
+
 In Bill Sourour's Article, [The Code I'm Still Ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e), 
+
+<img class="ui medium left floated image" src="/images/software-engineering-ethics-3-638.jpg"> 
 
 If you write code for a living, there’s a chance that at some point in your career, someone will ask you to code something a little deceitful – if not outright unethical.
 
