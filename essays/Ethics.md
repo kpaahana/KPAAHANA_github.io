@@ -16,7 +16,9 @@ In Bill Sourour's Article, [The Code I'm Still Ashamed of](https://medium.freeco
 
 When reading this article I didn't and still don't believe that he was responsible for any of the deaths associated with the drug, as ultimately it's the doctor who prescribes it and the client who chooses to take it. However, once Sourour started to feel even the slightest instance of how this job was unethical he should have brought it up with his employer and the clent. I thought it was interesting when someone in class mentioned that "he saved himself." It's good that he felt ashamed of what he had done, but I can't really say he did right by resigning because after him, there's just more people that will be put in the same situation. 
 
-There is much that could be said of what Sourour should and should't have done. The fact is that he had made the choice to do something that did not sit right with his morals, but he chose to do it, and he still feels ashamed of his actions till this day. 
+The fact is that he had made the choice to do something that did not sit right with his morals, but he chose to do it, and he still feels ashamed of his actions till this day. As much as I can sit here and ridicule Sourour for his actions and talk about what he should and shouldn't have done, if it was me, I really don't know what I would do in his situation. It's sad to say, but what Sourour did was something that a lot of us would do if given the situation, fearing losing the job or the respect from the higher ups.
 
-<img class="ui medium left floated image" src="/images/ethics.png"> 
+He mentioned in the article that, "if you write code for a living, there’s a chance that at some point in your career, someone will ask you to code something a little deceitful – if not outright unethical." I hope that if I'm ever put in such a situation in the future that I choose to be ethically sane. 
+
+<img class="ui medium left floated image" src="/images/ethics.png" width="300" height ="200" > 
 
