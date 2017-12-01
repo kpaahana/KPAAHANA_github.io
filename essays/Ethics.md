@@ -16,7 +16,7 @@ In the dictionary it states that ethics is "the moral principles that govern a p
 
 In Bill Sourour's Article, [The Code I'm Still Ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e), 
 
-<img class="ui medium left floated image" src="/images/software-engineering-ethics-3-638.jpg"> 
+<img class="ui medium left floated image" src="/images/ethics.png"> 
 
 If you write code for a living, there’s a chance that at some point in your career, someone will ask you to code something a little deceitful – if not outright unethical.
 
