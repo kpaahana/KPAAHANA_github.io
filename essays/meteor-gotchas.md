@@ -19,7 +19,7 @@ The indexing takes forever to complete, so I'll be sitting in front of my laptop
 
 Ever get that feeling of uneasiness when something is going so smoothly that it just seems too good to be true? Well, that's me with Meteor. I don't know if it's just my computer that's "working it's magic" or if there's something that I'm not doing "correctly", but throughout these past few weeks that I've been working with Meteor, I haven't had any huge problems-- at all. 
 
-<img class="ui left rounded floated image" src="/images/computer_frustration_T.png" width = "200" height = "200"> 
+<img class="ui right rounded floated image" src="/images/computer_frustration_T.png" width = "150" height = "150"> 
 
 Every single day someone would either express a problem he/she is having for Meteor, or I would hear about it on [Slack](https://slack.com/about), a messaging system designed to allow communication between people in the same team. As ridiculous as it sounds, I was at a point where I wanted to get errors just so that I could assure myself that there was nothing I was doing wrong, that I was "normal".
 
