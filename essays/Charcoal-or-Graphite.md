@@ -20,7 +20,7 @@ Since I’ve used it for the majority of my life (whether it be for writing or d
 
 I can't express how many times I've found myself covered in charcoal, whether it be my clothes, hands, or face. The charcoal is so sensitive that even the slightest touch will leave fingerprints all over the canvas. Unlike charcoal, when drawing with graphite pencil my hand can rest anywhere on the paper with ease, and it doesn’t have to resort to uncomfortable contortions to keep from smudging. The downside to graphite is that it is so controlling and precise that any harsh line work done on the piece sticks to the paper like an annoying younger sibling that never leaves your side.
 
-<img class="ui image" src="/images/clingysibling.jpg"  width= "200" height="400"> 
+<img class="ui image" src="/images/clingysibling.jpg"  width= "200" height="300"> 
 
 However, with charcoal, it’s so delicate, it makes for a nice smooth application. The easily blendable characteristic of charcoal also makes it faster to work with, giving an artist the opportunity to work on a larger canvas, which is more visually attractive to wider audiences. So, although the sensitivity of charcoal can be frustrating at times, it’s well worth it for a beautifully rendered final product.
 
