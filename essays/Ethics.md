@@ -14,9 +14,9 @@ In the case of software engineering, you can read all about the principles of et
 
 In Bill Sourour's Article, [The Code I'm Still Ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e), Sourour explains a time where he was asked to code a quiz basically advetising for the viewer to take this certain drug. When looking at the job more closely, even he felt that something was a little wrong, but he brushed it off saying, "I had a job to do, and I did it." However, after an incident with the suicidal of a teenage girl by that same product, the guilt really started to sink in. Eventually, he resigned. 
 
-When reading this article I didn't and still don't believe that he was responsible for any of the deaths associated with the drug, as ultimately it's the doctor who prescribes it and the client who chooses to take it. However, once Sourour started to feel even the slightest instance of how this job was unethical he should have brought it up with his employer and the clent. And I can't really say he did right by resigning because after him, there's just more people that will be put in the same situation. 
+When reading this article I didn't and still don't believe that he was responsible for any of the deaths associated with the drug, as ultimately it's the doctor who prescribes it and the client who chooses to take it. However, once Sourour started to feel even the slightest instance of how this job was unethical he should have brought it up with his employer and the clent. I thought it was interesting when someone in class mentioned that "he saved himself." It's good that he felt ashamed of what he had done, but I can't really say he did right by resigning because after him, there's just more people that will be put in the same situation. 
 
-There is much that could be said of what Sourour should and should't have done, but the fact is that he had made the choice to do something that did not sit right with his morals, and he chose to do it. 
+There is much that could be said of what Sourour should and should't have done. The fact is that he had made the choice to do something that did not sit right with his morals, but he chose to do it, and he still feels ashamed of his actions till this day. 
 
 <img class="ui medium left floated image" src="/images/ethics.png"> 
 
