@@ -3,7 +3,7 @@
 layout: essay
 type: essay
 title: Combining Forces
-date: 2017-08-31
+date: 2017-12-05
 labels:
   - Software Engineering
   - Art
