@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns: The Guide You Need
+title: The Instruction Manual to Software Engineering
 date: 2017-12-05
 labels:
   - design patterns
