@@ -20,6 +20,7 @@ I slaved away for hours, and after I was finally done, she took it, put it in a 
   <img class="ui centered rounded image" src="/images/53.jpg">
   <img class="ui centered rounded image" src="/images/54.jpg">
   <img class="ui centered rounded image" src="/images/55.jpg">
+   <img class="ui centered rounded image" src="/images/56.jpg">
 </div>
 
 So when I hear "design patterns", I think of my own instruction manual on how to figure out how to finish constructing different solutions solve many different situations that might come up in the coding process. Recently this year, there have been multiple projects assigned in my software engineering class where design patterns have come in handy, one of which, is actually the final project my team is currently working on. I can't exclaim how many times in the project it has helped me understand the process of the user submitting topics and then having that newly created topic be saved into a specific thread underthe category of the question. 
