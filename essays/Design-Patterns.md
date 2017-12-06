@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design
+title: Design Patterns: The Guide You Need
 date: 2017-12-05
 labels:
   - design patterns
