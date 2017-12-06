@@ -8,16 +8,6 @@ labels:
   - Software Engineering
   - Art
 ---
-<!-----
-layout: essay
-type: essay
-title: Design Patterns
-date: 2017-12-05
-labels:
-  - Software Engineering
-  - Legos
-  - Design Patterns
------>
 
 Last year, my aunty (who's a complete star wars fanatic) finally purchased the Lego Star Wars Millenial Falcon "for her son" (as she claims). But of course she had no intention of wasting her precious time trying to figure it out--so I had to do it.  Who would of have thought one model could be so complex with a tremendous amount of pieces, 1,329 TO BE EXACT.
 
