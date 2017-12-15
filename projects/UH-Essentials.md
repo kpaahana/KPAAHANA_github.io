@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kpaahana.github.io/images/bro.jpg
+image: kpaahana.github.io/images/landing.jpg
 title: Welcome to UH Essentials!
 permalink: projects/UH-Essentials.md
 date: Fall 2017
