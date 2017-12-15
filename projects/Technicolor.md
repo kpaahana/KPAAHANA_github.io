@@ -16,9 +16,8 @@ For this project I chose to experiement with light and color. I wanted to make p
 
 <div class="ui images">
   <img class="ui centered rounded image" src="/images/C1.png"  width= "150" height="150">
-  <img class="ui centered rounded image" src="/images/C2.png"  width= "150" height="150"> 
-  <img class="ui centered rounded image" src="/images/C3.png"  width= "150" height="150">
-  <img class="ui centered rounded image" src="/images/C4.png"  width= "150" height="150">
+  <img class="ui centered rounded image" src="/images/C3.png"  width= "150" height="150"> 
+  <img class="ui centered rounded image" src="/images/C2.png"  width= "150" height="150">
   <img class="ui centered rounded image" src="/images/C5.png"  width= "150" height="150">
 </div>
 
