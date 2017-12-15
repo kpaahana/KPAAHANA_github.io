@@ -26,6 +26,6 @@ Well, with UH Essentials you can learn everything, you want to or need to know, 
   <img class="ui centered rounded image" src="/images/submit.png"  width= "300" height="300">
 </div>
 
-You can click this link to access [UH Essentials](https://uhessentials.github.io)
+If you'd like to see our source code and more about the project can click this link to access [UH Essentials](https://uhessentials.github.io). 
 
-One of those projects should present the application you developed for this class. The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots. It should include a link to the Organization GitHub Page associated with the project for those who want to see the source code and learn more about it. All project pages should include at least one screen image.
+It kinda of an overall collaboration with each of the pages, but the main ones I worked on were the landing, profile, and topic question pages. If we were to have more time to work on the project I would have loved to make sure everything worked properly. I defintely learned how difficult it is to actually create a website as I don't we wouldnt have gone as far as we did without the help of the Bowfolios and Digits template. 
