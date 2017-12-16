@@ -7,17 +7,14 @@ permalink: projects/UH-Essentials.md
 date: Fall 2017
 labels:
   - Software Engineering
-  - Html
-  - Semantic UI
-  - Javascript
-summary: Ever have questions about the University of Hawaii, but your not sure where to go? With UH Essentials
+summary: Stuff
 ---
 
 New to UH or want to learn more about your campus?
 
 Well, with UH Essentials you can learn everything, you want to or need to know, about the campus that you are attending. UH Essentials is a forum-like Meteor application for the whole University of Hawaii (UH) system, where you can learn about Degree Programs, Food Services, Commuting to, from, or around campus, Campus Security during the day and night, and Campus Events from actual students and professors that work or have experienced the UH life before. The UH Essentials app offers all the essential information you might want to know as a new comer or even a veteran who hasn't done much exploring around campus.
 
-<div class="ui images">
+<div class= "ui images">
   <img class="ui centered rounded image" src="/images/landing.png"  width= "300" height="300">
   <img class="ui centered rounded image" src="/images/profile.png"  width= "300" height="300">
   <img class="ui centered rounded image" src="/images/home.png"  width= "300" height="300"> 
